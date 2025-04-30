@@ -32,3 +32,10 @@ Include the header file in your project:
 ```
 gcc -L. -lft your_program.c -o your_program
 ```
+## Project Structure
+**Makefile** - automated compilation of program by using command ```make```
+
+**libft.h** - header file where were defined all the neccessary functions and macros
+
+**Author
+Rub Barkhudaryan**
