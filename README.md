@@ -35,6 +35,8 @@ gcc -L. -lft your_program.c -o your_program
 ## Project Structure
 **Makefile** - automated compilation of program by using command ```make```
 
+**C files** - source files where are the implementations of functions
+
 **libft.h** - header file where were defined all the neccessary functions and macros
 
 **Author
